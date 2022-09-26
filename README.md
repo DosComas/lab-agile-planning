@@ -1,2 +1,2 @@
 # lab-agile-planning
-IBM Agile and Scrum Fundamentals
+This repository contains the lab for IBM Agile and Scrum Fundamentals
